@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="EditTextStatusNormal">
+        <item name="android:textColor">@color/color_c1</item>
+        <item name="android:textSize">@dimen/text_size_t7</item>
+    </style>
+    <style name="EditTextStatusError">
+        <item name="android:textColor">@color/color_c2</item>
+        <item name="android:textSize">@dimen/text_size_t7</item>
+    </style>
 </resources>

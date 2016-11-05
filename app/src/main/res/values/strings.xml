@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TextInputLayoutSample</string>
+    <string name="username">Username</string>
+    <string name="user_passwd">Password</string>
 </resources>

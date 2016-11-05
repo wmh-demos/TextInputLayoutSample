@@ -2,4 +2,6 @@
     <string name="app_name">TextInputLayoutSample</string>
     <string name="username">Username</string>
     <string name="user_passwd">Password</string>
+    <string name="login">login</string>
+    <string name="error">error</string>
 </resources>
